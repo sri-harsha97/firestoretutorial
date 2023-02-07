@@ -1,0 +1,1 @@
+### Follow the python files for basic CRUD operations in Firestore. 
